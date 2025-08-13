@@ -25,3 +25,17 @@ If a weekday is missing in the input, its value is calculated as the **average o
   "2020-01-06": 2,
   "2020-01-07": 4
 }
+
+### Output:
+json
+Copy
+Edit
+{
+  "Mon": 2,
+  "Tue": 4,
+  "Wed": 6,
+  "Thu": 8,
+  "Fri": 10,
+  "Sat": 12,
+  "Sun": 14
+}
