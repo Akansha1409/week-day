@@ -17,7 +17,7 @@ If a weekday is missing in the input, its value is calculated as the **average o
 ## 📂 Example
 
 ### Input:
-```json
+
 {
   "2020-01-01": 6,
   "2020-01-04": 12,
@@ -26,10 +26,8 @@ If a weekday is missing in the input, its value is calculated as the **average o
   "2020-01-07": 4
 }
 
+
 ### Output:
-json
-Copy
-Edit
 {
   "Mon": 2,
   "Tue": 4,
