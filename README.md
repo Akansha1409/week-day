@@ -26,7 +26,7 @@ If a weekday is missing in the input, its value is calculated as the **average o
   "2020-01-07": 4
 }
 
----
+
 
 ### 📊 Output
 {
