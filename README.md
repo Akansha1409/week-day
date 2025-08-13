@@ -29,6 +29,7 @@ If a weekday is missing in the input, its value is calculated as the **average o
 
 
  📊 Output
+```
 {
   "Mon": 2,
   "Tue": 4,
