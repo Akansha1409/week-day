@@ -16,7 +16,7 @@ If a weekday is missing in the input, its value is calculated as the **average o
 
 ## 📂 Example
 
-### 📝 Input
+ 📝 Input
 ```json
 {
   "2020-01-01": 6,
@@ -28,7 +28,7 @@ If a weekday is missing in the input, its value is calculated as the **average o
 
 
 
-### 📊 Output
+ 📊 Output
 {
   "Mon": 2,
   "Tue": 4,
